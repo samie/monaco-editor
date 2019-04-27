@@ -1,5 +1,6 @@
 {
   "name": "monaco-editor",
+  "license": "mit",
   "description": "A Polymer 2.0 element for Monaco Editor, an browser-based code editor.",
   "main": "monaco-elements.html",
   "dependencies": {
